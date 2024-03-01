@@ -1,6 +1,6 @@
 # evo_closure
-Codes du modèle de variation de systèmes clos
+Model for the variation of closed system.
 
-Le paquet GPenSim est nécessaire pour faire fonctionner les codes. Le dossier matlab contient l'ensemble des codes crées.
-Le script "main_V3" est le script principal qui permet d'accéder aux codes nécessaire à une simulation.
-Les scripts effect_of_degradation.m, effect_of_sp_2.m , et effect_of_d_and_v.m sont les scritps d'analye du modèle.
+GPenSim library is necessary to run codes. "matlab" folder contains all necessar codes.
+ "main_V3" script is the main scipt and allows to access to every necessary other scripts for a simulation.
+  effect_of_degradation.m, effect_of_sp_2.m , and effect_of_d_and_v.m are codes for model analyses.
